@@ -46,7 +46,7 @@ import {
 const genAI = new GoogleGenerativeAI(apiKey);
 
 const model = genAI.getGenerativeModel({
-  model: "tunedModels/mentalhealthchatbot-02-7ul5vhgobzol", // update this model name if needed
+  model: "tunedModels/soulsync-l772h7x7u3do", // update this model name if needed
 });
 ```
 
