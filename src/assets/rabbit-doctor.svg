@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Rabbit head -->
+  <path d="M50,10 C30,10 20,25 20,40 C20,55 30,70 50,70 C70,70 80,55 80,40 C80,25 70,10 50,10 Z" fill="#ffffff" stroke="#a8e6cf" stroke-width="2"/>
+  <!-- Eyes -->
+  <circle cx="40" cy="35" r="3" fill="#4a6c5d"/>
+  <circle cx="60" cy="35" r="3" fill="#4a6c5d"/>
+  <!-- Smile -->
+  <path d="M42,50 C45,55 55,55 58,50" fill="none" stroke="#4a6c5d" stroke-width="2" stroke-linecap="round"/>
+  <!-- Ears -->
+  <path d="M30,10 C25,0 15,5 20,15 Z" fill="#ffffff" stroke="#a8e6cf" stroke-width="2"/>
+  <path d="M70,10 C75,0 85,5 80,15 Z" fill="#ffffff" stroke="#a8e6cf" stroke-width="2"/>
+  <!-- Doctor coat -->
+  <rect x="40" y="70" width="20" height="15" fill="#ffffff" stroke="#a8e6cf" stroke-width="2"/>
+  <!-- Stethoscope -->
+  <circle cx="50" cy="77" r="5" fill="#ffd3b6"/>
+  <path d="M50,82 C45,85 40,90 40,95" fill="none" stroke="#a8e6cf" stroke-width="2"/>
+  <circle cx="40" cy="95" r="3" fill="#a8e6cf"/>
+</svg>
