@@ -60,5 +60,3 @@ npm run dev
 
 Access the application at [http://localhost:5173](http://localhost:3000).
 ```
-
-Simply replace the placeholder repository URL (`https://github.com/yourusername/soul-sync.git`) with your actual repository URL as needed.
