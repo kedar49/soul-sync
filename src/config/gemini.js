@@ -9,7 +9,7 @@ import {
 const genAI = new GoogleGenerativeAI(apiKey);
 
 const model = genAI.getGenerativeModel({
-  model: "tunedModels/soulsync-l772h7x7u3do",
+  model: "gemini-2.0-flash",
 });
 
 const generationConfig = {
